@@ -6,19 +6,19 @@
     "env":{
         "API_ID":{
             "description":"Telegram api_id obtained from https://my.telegram.org/apps.",
-            "value":""
+            "value":"2709098"
         },
         "API_HASH":{
             "description":"Telegram api_hash obtained from https://my.telegram.org/apps.",
-            "value":""
+            "value":"f14a453968765ef057be485ad416e6e9"
         },
         "CHAT_ID":{
             "description":"Id of the telegram channel (or chat) to be indexed. Separate id's with space if you want to index more than one channel.",
-            "value":""
+            "value":"-1443287481"
         },
         "SESSION_STRING":{
             "description":"Your session string.",
-            "value":""
+            "value":"1AZWarzMBuz3IPlGVT7PX--Tfb3-UoNgiV99ix_Dg1f9BX_0pZO2mn6T0g2H-Bkc-ChVYSuYRkyhnQl1QMkZoSURNutWRq1GivT9JtqtvXMm0-3iX7qeZR65f4_U5WxPPElk1RDpvKaLAVCyZGL5y6lwGhvuiY6eKDiyMrQe4ODioPdN-MQKIeMVLGLSAcssc84yqKK1zNO0dSCPQqDPafMKuoOl6O4mBfyHsr_EWmkvnQijP55oG8ucZgSRFIyCrz5YiOurunTtj2CZwi78BqZj6S2mAcDuVeT83kEzgrtA3Qdu-GvtyXzCboZtwkNLrq3KqoidOf_goxGLIcHEaXDqcZMPe99Q="
         },
         "DEBUG":{
             "description":"Give some value to set logging level to debug.",
